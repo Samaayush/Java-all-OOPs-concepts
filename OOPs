@@ -1,0 +1,10 @@
+OOPs - 
+Opps stands for Obejct oriented programming structure/system. It is a paradigm or set of rule to design the code by using the classes and object.
+Classes is collection of object which are in similar properties.It is blueprint or templet of objects. By using the class, objects are created.
+Classes contain method, constuctor, block of codes. The syntax of Class in java : access specifire class nameOfClass.Classes does not occupy memory.
+Object is the instance of class. Any entity have there own state and behaviour is known as objects. Objects occupy memory
+There are main four piller of OOPs:
+1-Inheritance.
+2-Polymorphism.
+3-Abstraction.
+4-Encapsulation.
